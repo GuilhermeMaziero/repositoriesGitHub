@@ -1,4 +1,4 @@
-# Adiciona repositórios do github e listar suas issues
+# Adiciona repositórios do github e lista suas issues
 
 ![image](https://user-images.githubusercontent.com/28782763/112077300-f9407280-8b5a-11eb-8ced-297c074b92d5.png)
 
